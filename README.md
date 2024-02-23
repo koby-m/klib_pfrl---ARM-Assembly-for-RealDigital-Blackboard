@@ -1,19 +1,22 @@
 **Name:**                
-Name
+klib_pfrl (written in ARM Assembly)
 
 **Version:**            
 1.0.0
 
-**Dependancies[0]:**       
+**Dependancies[1]:**       
+https://github.com/koby-m/klib_io---ARM-Assembly-for-RealDigital-Blackboard
 
 **Contributor(s):**     
 Koby Miller
 
 **Date last modified:**   
-Date
+February 23rd, 2024
 
 **Description:**        
-Words
+To interface external peripherals with the RealDigital Blackboard via PMOD GPIO 
+Including:<br>
+- Digilent PMOD KYPD (16 button keypad)
 
 **Changelog:**
-List
+N/A

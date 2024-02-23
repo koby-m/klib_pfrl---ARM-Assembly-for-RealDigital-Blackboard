@@ -5,6 +5,7 @@ klib_pfrl (written in ARM Assembly)
 1.0.0
 
 **Dependancies[1]:**       
+klib_io (written in ARM Assembly)<br>
 https://github.com/koby-m/klib_io---ARM-Assembly-for-RealDigital-Blackboard
 
 **Contributor(s):**     
